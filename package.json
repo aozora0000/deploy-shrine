@@ -1,0 +1,26 @@
+{
+  "name": "deploy-shrine",
+  "version": "0.0.1",
+  "description": "This is a script that is me fortune the deploy ",
+  "main": "deploy-shrine.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aozora0000/deploy-shrine.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "deploy",
+    "fortune"
+  ],
+  "author": "aozora0000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aozora0000/deploy-shrine/issues"
+  },
+  "homepage": "https://twitter.com/aozora0000",
+  "dependencies": {}
+}
